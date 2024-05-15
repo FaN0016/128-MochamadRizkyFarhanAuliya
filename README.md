@@ -1,4 +1,4 @@
-Mochamad Rizky Farhan Auliya
+128 - Mochamad Rizky Farhan Auliya
 # League Pro Stats
 Database player LoL Pro untuk setiap season (Untuk sekarang coba dlu hanya untuk LEC Winter Regular Season 2024 dikarenakan rata-rata game mereka tidak banyak untuk winter)
 Pengguna dapat melihat stat dasar pemain (seperti K/D/A, CS/M, GPM, dan KP)
