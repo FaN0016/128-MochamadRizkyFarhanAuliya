@@ -1,3 +1,10 @@
+Mochamad Rizky Farhan Auliya
+# League Pro Stats
+Database player LoL Pro untuk setiap season (Untuk sekarang coba dlu hanya untuk LEC Winter Regular Season 2024 dikarenakan rata-rata game mereka tidak banyak untuk winter)
+Pengguna dapat melihat stat dasar pemain (seperti K/D/A, CS/M, GPM, dan KP)
+atau stat dasar tim yang melakukan kompetisi (seperti winrate, rata-rata durasi game tim, dan persentase first blood)
+Pengguna dapat menyimpan pemain favorit mereka dengan menggunakan akun
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
