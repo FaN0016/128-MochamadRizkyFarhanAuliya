@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LoL Pro Stats</title>
+    <title>League Pro Stats</title>
 </head>
 <body>
     <h2>This is just test first</h2>
